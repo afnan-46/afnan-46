@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **NLP (Natural Language Processing)**
 
-- 🌱 I'm currently learning **Natural Language Processing, Explainable AI**
+- 🌱 I'm currently learning **Natural Language Processing, Explainable AI,Image processing**
 
 - 🤝 I'm looking for help with **Learning AI, NUMPY**
 

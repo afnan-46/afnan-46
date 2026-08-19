@@ -8,11 +8,10 @@
 
 - 🌱 I'm currently learning **Natural Language Processing, Explainable AI,Image processing**
 
-- 🤝 I'm looking for help with **Learning AI, NUMPY**
+- 🤝 I'm looking for help with **Learning AI, NUMPY, Image-Segmentation**
 
 - 📫 How to reach me **afnanbdcr@gmail.com**
 
-- ⚡ Fun fact **I Love Walking under open sky.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

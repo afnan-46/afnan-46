@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohammad Afnan Ahmad Bhuiyan
+# Hi 👋, I'm Mohammed Afnan Ahmad Bhuiyan
 
 ### Student
 

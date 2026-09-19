@@ -77,5 +77,5 @@ My GitHub repositories document my undergraduate learning journey, from structur
 
 ## Contact
 
-- LinkedIn: [Add LinkedIn URL]
-- Email: [Add professional email]
+- LinkedIn: https://www.linkedin.com/in/afnan-ahmed-2024-1-60-228cse/
+- Email: afnanbdcr@gmail.com

@@ -1,27 +1,81 @@
-# Hi 👋, I'm Mohammed Afnan Ahmad Bhuiyan
+# Mohammed Afnan Ahmad Bhuiyan
 
-### Student
+Computer Science student at [East West University](https://www.ewubd.edu/) in Dhaka, Bangladesh, interested in practical software development, machine learning, data science, natural language processing, and image processing.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnan-46&label=Profile views&color=0e75b6&style=flat" alt="afnan-46" /> </p>
+## Current Focus
 
-- 🔭 I'm currently working on **NLP (Natural Language Processing)**
+I am currently building my knowledge in:
 
-- 🌱 I'm currently learning **Natural Language Processing, Explainable AI,Image processing**
+- Natural Language Processing
+- Explainable AI
+- Image processing
+- Machine learning
+- Data analysis
 
-- 🤝 I'm looking for help with **Learning AI, NUMPY, Image-Segmentation**
+## Undergraduate Learning Journey
 
-- 📫 How to reach me **afnanbdcr@gmail.com**
+| Area | Topics Studied | Related Repository or Evidence |
+| --- | --- | --- |
+| Programming Fundamentals | Structured programming, variables, conditions, loops, functions, arrays, pointers, file handling, and C | [CSE103](https://github.com/afnan-46/cse103) |
+| Object-Oriented Programming | Classes, objects, inheritance, polymorphism, encapsulation, and Java | [CSE246](https://github.com/afnan-46/CSE246) |
+| Data Structures and Algorithms | Stacks, queues, linked lists, trees, graphs, searching, sorting, and algorithmic problem-solving | [CSE246](https://github.com/afnan-46/CSE246) |
+| Database Systems | Relational databases, SQL, PHP, MySQL, and CRUD applications | [Online Shop](https://github.com/afnan-46/Online-Shop), [Hospital Management](https://github.com/afnan-46/Hospital_Management) |
+| Computer Networks | Network topologies, IP addressing, routing, switching, and Cisco Packet Tracer | [Hospital Network System Cisco](https://github.com/afnan-46/Hospital_Network_System_Cisco) |
+| Operating Systems | CPU scheduling, process scheduling, SJF, Priority Scheduling, and Round Robin | [OS CPU Scheduler](https://github.com/afnan-46/OS-CPU-scheduler) |
+| Web Development | HTML, CSS, JavaScript, PHP, and MySQL | [Online Shop](https://github.com/afnan-46/Online-Shop), [Hospital Management](https://github.com/afnan-46/Hospital_Management) |
+| Probability and Statistics | Statistical analysis using Python and Jupyter Notebook | [Python CSE303](https://github.com/afnan-46/Python-CSE303) |
+| Machine Learning | Supervised learning, prediction, model evaluation, and data preprocessing | [Machine Learning Lab Tasks](https://github.com/afnan-46/Matchine-learning-Lab-Tasks), [Employment Trajectories](https://github.com/afnan-46/Predictive-Modeling-of-Employment-Trajectories-in-Bangladesh) |
+| Digital Image Processing | Frequency-domain filters, Gaussian filters, Butterworth filters, and image analysis | [Image Processing](https://github.com/afnan-46/image-processing), [Gaussian and Butterworth Filters](https://github.com/afnan-46/Gaussian_Butterworth_Frequency_Filters) |
+| Artificial Intelligence | Game AI, search and decision-making, and a Pentago AI project | [Pentago AI Arena](https://github.com/afnan-46/Pentago-AI-Arena) |
+| Software Engineering | Git, GitHub, project documentation, and version control | [Adaptive Traffic Signal Simulation](https://github.com/afnan-46/Adaptive_Traffic_Signal_Simulation), [Brick Crusher Ball](https://github.com/afnan-46/Brick-crusher-Ball) |
 
+## Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/afnan-46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="afnan-46" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/afnan-ahmed-2024-1-60-228cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its_afnan46" height="30" width="40" /></a>
-<a href="https://fb.com/afnancvc46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afnancvc46" height="30" width="40" /></a>
-<a href="https://instagram.com/its_afnan46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_afnan46" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/hUrxNpscSf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hUrxNpscSf" height="30" width="40" /></a>
-</p>
+### [Predictive Modeling of Employment Trajectories in Bangladesh](https://github.com/afnan-46/Predictive-Modeling-of-Employment-Trajectories-in-Bangladesh)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+A machine learning project focused on predictive modeling of employment trajectories in Bangladesh. Relevant technologies include Python, data analysis, and machine learning.
 
+### [Pentago AI Arena](https://github.com/afnan-46/Pentago-AI-Arena)
+
+An artificial intelligence project based on the game of Pentago, involving game AI and search or decision-making. Relevant technologies include artificial intelligence and algorithmic problem-solving.
+
+### [Adaptive Traffic Signal Simulation](https://github.com/afnan-46/Adaptive_Traffic_Signal_Simulation)
+
+A simulation project focused on adapting traffic signal behavior. Relevant technologies include software development, simulation, and algorithmic problem-solving.
+
+### [Gaussian and Butterworth Frequency Filters](https://github.com/afnan-46/Gaussian_Butterworth_Frequency_Filters)
+
+An image processing project implementing Gaussian and Butterworth filters in the frequency domain. Relevant technologies include Python and digital image processing.
+
+### [Hospital Management System](https://github.com/afnan-46/Hospital_Management)
+
+A web-based hospital management project for organizing hospital-related information and operations. Relevant technologies include PHP, MySQL, SQL, HTML, CSS, and JavaScript.
+
+## Technical Skills
+
+### Languages
+
+Python · Java · C · C++ · PHP · SQL
+
+### Data and AI
+
+Pandas · NumPy · Scikit-learn · Jupyter Notebook
+
+### Web and Database
+
+HTML · CSS · JavaScript · PHP · MySQL
+
+### Tools
+
+Git · GitHub · Cisco Packet Tracer
+
+## Repository Collection
+
+My GitHub repositories document my undergraduate learning journey, from structured programming and object-oriented programming to machine learning, AI, computer networks, databases, operating systems, and image processing.
+
+[View my repositories](https://github.com/afnan-46?tab=repositories)
+
+## Contact
+
+- LinkedIn: [Add LinkedIn URL]
+- Email: [Add professional email]

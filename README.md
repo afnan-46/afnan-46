@@ -1,6 +1,6 @@
 # Mohammed Afnan Ahmad Bhuiyan
 
-Computer Science student at [East West University](https://www.ewubd.edu/) in Dhaka, Bangladesh, interested in practical software development, machine learning, data science, natural language processing, and image processing.
+Computer Science student at [East West University](https://www.ewubd.edu/) in Dhaka, Bangladesh, interested in practical software development, machine learning, data science, natural language processing, and explainable AI.
 
 ## Current Focus
 
@@ -17,17 +17,18 @@ I am currently building my knowledge in:
 | Area | Topics Studied | Related Repository or Evidence |
 | --- | --- | --- |
 | Programming Fundamentals | Structured programming, variables, conditions, loops, functions, arrays, pointers, file handling, and C | [CSE103](https://github.com/afnan-46/cse103) |
-| Object-Oriented Programming | Classes, objects, inheritance, polymorphism, encapsulation, and Java | [CSE246](https://github.com/afnan-46/CSE246) |
+| Object-Oriented Programming | Classes, objects, inheritance, polymorphism, encapsulation, and Java | [OOP110](https://github.com/afnan-46/OOP110) |
 | Data Structures and Algorithms | Stacks, queues, linked lists, trees, graphs, searching, sorting, and algorithmic problem-solving | [CSE246](https://github.com/afnan-46/CSE246) |
 | Database Systems | Relational databases, SQL, PHP, MySQL, and CRUD applications | [Online Shop](https://github.com/afnan-46/Online-Shop), [Hospital Management](https://github.com/afnan-46/Hospital_Management) |
 | Computer Networks | Network topologies, IP addressing, routing, switching, and Cisco Packet Tracer | [Hospital Network System Cisco](https://github.com/afnan-46/Hospital_Network_System_Cisco) |
 | Operating Systems | CPU scheduling, process scheduling, SJF, Priority Scheduling, and Round Robin | [OS CPU Scheduler](https://github.com/afnan-46/OS-CPU-scheduler) |
 | Web Development | HTML, CSS, JavaScript, PHP, and MySQL | [Online Shop](https://github.com/afnan-46/Online-Shop), [Hospital Management](https://github.com/afnan-46/Hospital_Management) |
 | Probability and Statistics | Statistical analysis using Python and Jupyter Notebook | [Python CSE303](https://github.com/afnan-46/Python-CSE303) |
+| Statistical Data Science | Data analysis, statistical methods, data visualization, and Python-based data science | [Python CSE303](https://github.com/afnan-46/Python-CSE303) |
 | Machine Learning | Supervised learning, prediction, model evaluation, and data preprocessing | [Machine Learning Lab Tasks](https://github.com/afnan-46/Matchine-learning-Lab-Tasks), [Employment Trajectories](https://github.com/afnan-46/Predictive-Modeling-of-Employment-Trajectories-in-Bangladesh) |
-| Digital Image Processing | Frequency-domain filters, Gaussian filters, Butterworth filters, and image analysis | [Image Processing](https://github.com/afnan-46/image-processing), [Gaussian and Butterworth Filters](https://github.com/afnan-46/Gaussian_Butterworth_Frequency_Filters) |
+| Digital Image Processing | Frequency-domain filters, Gaussian filters, Butterworth filters, and image analysis | [Image Processing](https://github.com/afnan-46/image-processing), [Gaussian and Butterworth Frequency Filters](https://github.com/afnan-46/Gaussian_Butterworth_Frequency_Filters) |
 | Artificial Intelligence | Game AI, search and decision-making, and a Pentago AI project | [Pentago AI Arena](https://github.com/afnan-46/Pentago-AI-Arena) |
-| Software Engineering | Git, GitHub, project documentation, and version control | [Adaptive Traffic Signal Simulation](https://github.com/afnan-46/Adaptive_Traffic_Signal_Simulation), [Brick Crusher Ball](https://github.com/afnan-46/Brick-crusher-Ball) |
+| Software Engineering | Git, GitHub, project documentation, and version control | [Adaptive Traffic Signal Simulation](https://github.com/afnan-46/Adaptive_Traffic_Signal_Simulation), [Brick Crusher](https://github.com/afnan-46/Brick-Crusher) |
 
 ## Featured Projects
 
@@ -71,7 +72,7 @@ Git · GitHub · Cisco Packet Tracer
 
 ## Repository Collection
 
-My GitHub repositories document my undergraduate learning journey, from structured programming and object-oriented programming to machine learning, AI, computer networks, databases, operating systems, and image processing.
+My GitHub repositories document my undergraduate learning journey, from structured programming and object-oriented programming to machine learning, AI, computer networks, databases, operating systems, and statistical data science.
 
 [View my repositories](https://github.com/afnan-46?tab=repositories)
 

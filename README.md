@@ -24,7 +24,6 @@ I am currently building my knowledge in:
 | Operating Systems | CPU scheduling, process scheduling, SJF, Priority Scheduling, and Round Robin | [OS CPU Scheduler](https://github.com/afnan-46/OS-CPU-scheduler) |
 | Web Development | HTML, CSS, JavaScript, PHP, and MySQL | [Online Shop](https://github.com/afnan-46/Online-Shop), [Hospital Management](https://github.com/afnan-46/Hospital_Management) |
 | Probability and Statistics | Statistical analysis using Python and Jupyter Notebook | [Python CSE303](https://github.com/afnan-46/Python-CSE303) |
-| Statistical Data Science | Data analysis, statistical methods, data visualization, and Python-based data science | [Python CSE303](https://github.com/afnan-46/Python-CSE303) |
 | Machine Learning | Supervised learning, prediction, model evaluation, and data preprocessing | [Machine Learning Lab Tasks](https://github.com/afnan-46/Matchine-learning-Lab-Tasks), [Employment Trajectories](https://github.com/afnan-46/Predictive-Modeling-of-Employment-Trajectories-in-Bangladesh) |
 | Digital Image Processing | Frequency-domain filters, Gaussian filters, Butterworth filters, and image analysis | [Image Processing](https://github.com/afnan-46/image-processing), [Gaussian and Butterworth Frequency Filters](https://github.com/afnan-46/Gaussian_Butterworth_Frequency_Filters) |
 | Artificial Intelligence | Game AI, search and decision-making, and a Pentago AI project | [Pentago AI Arena](https://github.com/afnan-46/Pentago-AI-Arena) |

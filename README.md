@@ -11,6 +11,8 @@ I am currently building my knowledge in:
 - Image processing
 - Machine learning
 - Data analysis
+- Data_Mining
+- Segmentation
 
 ## Undergraduate Learning Journey
 
